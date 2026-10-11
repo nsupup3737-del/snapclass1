@@ -1,13 +1,8 @@
 streamlit
 numpy
 pandas
-opencv-python
-dlib-bin
-face-recognition
-webrtcvad-wheels
-
+opencv-contrib-python-headless
+scikit-learn
+pillow
 supabase
 bcrypt
-pillow
-scikit-learn
-setuptools<70.0.0
