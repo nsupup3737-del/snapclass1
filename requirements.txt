@@ -8,3 +8,4 @@ supabase
 bcrypt
 segno
 librosa
+dlib
