@@ -1,4 +1,4 @@
-streamlit
+strstreamlit
 numpy
 pandas
 opencv-contrib-python-headless
@@ -7,6 +7,4 @@ pillow
 supabase
 bcrypt
 segno
-webrtcvad-wheels
-SpeechRecognition
-pydub
+librosa
