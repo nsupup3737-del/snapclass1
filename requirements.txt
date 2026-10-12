@@ -7,3 +7,6 @@ pillow
 supabase
 bcrypt
 segno
+webrtcvad-wheels
+SpeechRecognition
+pydub
