@@ -1,5 +1,8 @@
 from resemblyzer import VoiceEncoder, preprocess_wav
 import numpy as np 
+import webrtcvad
+import speech_recognition as sr
+from pydub import AudioSegment
 import io
 import librosa
 import streamlit as st
