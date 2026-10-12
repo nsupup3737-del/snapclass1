@@ -1,4 +1,4 @@
-strstreamlit
+streamlit
 numpy
 pandas
 opencv-contrib-python-headless
