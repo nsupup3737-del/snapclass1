@@ -1,13 +1,13 @@
 streamlit
 numpy
 pandas
-opencv-python
+opencv-python-headless
 dlib-bin
-face-recognition
+face_recognition_models
+click
+Pillow
 webrtcvad-wheels
-
 supabase
 bcrypt
-pillow
 scikit-learn
 setuptools<70.0.0
