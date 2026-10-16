@@ -5,12 +5,12 @@ opencv-python-headless
 dlib-bin
 face_recognition_models
 click
-Pillow
+pillow
 webrtcvad-wheels
 supabase
 bcrypt
 scikit-learn
-setuptools<70.0.0
 segno
 librosa
 soundfile
+setuptools<70.0.0
